@@ -25,22 +25,8 @@
 - MySQL 5.x
 
 #### Proses Instalasi :
-1. Dengan asumsi SSH sudah terpasang di server, lakukan login kedalam server menggunakan SSH. Untuk pengguna windows bisa menggunakan aplikasi [PuTTY](http://www.putty.org/) atau dengan menggunakan variasi dari linux shell yang tersedia untuk windows ( Contoh : [Git Bash](https://git-scm.com/) ).
 
-	Jika ssh belum terpasang
-	```
-	sudo apt install ssh
-	```
-	Jika ssh sudah terpasang, lanjut ke proses di bawah ini
-    ```
-    $ ssh [server-username]@[server-ip-address] -p [port-number]
-
-    Contoh :
-
-	$ ssh student@127.0.0.1 -p 2222
-    ```
-
-2. Pastikan seluruh paket sistem kita ter-*update*, dan install seluruh kebutuhan dasar sistem seperti `Apache`, `PHP`, dan `MySQL`. Kemudian install tools bantuan lainnya, yaitu `git` dan `composer` yang berguna dalam proses instalasi **Ampache**.
+1. Pastikan seluruh paket sistem kita ter-*update*, dan install seluruh kebutuhan dasar sistem seperti `Apache`, `PHP`, dan `MySQL`. Kemudian install tools bantuan lainnya, yaitu `git` dan `composer` yang berguna dalam proses instalasi **Ampache**.
     ```
     $ sudo apt-get update
     $ sudo apt-get install apache2
@@ -53,23 +39,23 @@
     $ sudo apt install composer
     $ sudo service apache2 restart
     ```
-3. Clone **Ampache** dengan Git ke dalam direktori `var/ww/html/` .
+2. Clone **Ampache** dengan Git ke dalam direktori `var/ww/html/` .
     ```
     $ sudo git clone https://github.com/ampache/ampache.git
     ```
-4.  Masuk ke dalam direktori `var/www/html/ampache`yang merupakan hasil dari  clone, lalu ubah permission dari folder `config` menjadi 777 (semua *user* dapat mengakses, menulis dan menjalankan) agar composer dan ampache dapat mengakses serta merubah isi file yang terdapat di dalam folder tersebut
+3.  Masuk ke dalam direktori `var/www/html/ampache`yang merupakan hasil dari  clone, lalu ubah permission dari folder `config` menjadi 777 (semua *user* dapat mengakses, menulis dan menjalankan) agar composer dan ampache dapat mengakses serta merubah isi file yang terdapat di dalam folder tersebut
 	```
 	$ sudo chmod 777 -R config
 	```
 
 
 
- 5. Kembali ke root folder ampache kemudian lakukan instalasi *dependency* yang diperlukan oleh  **ampache** agar dapat berjalan di server dengan bantuan composer
+ 4. Kembali ke root folder ampache kemudian lakukan instalasi *dependency* yang diperlukan oleh  **ampache** agar dapat berjalan di server dengan bantuan composer
 	```
 	$ sudo composer install
 	```
 
-5. Ubah otorisasi kepemilikan ke webserver yang berjalan (Apache2).
+ 5. Ubah otorisasi kepemilikan ke webserver yang berjalan (Apache2).
     ```
     //lakukan pada direktori /var/www/http untuk mengurangi resiko error
     $ sudo chown -R www-data:www-data ampache
