@@ -96,17 +96,16 @@
     post_max_size = 300M
     ```
 
-9. Restart kembali Apache web server.
+8. Restart kembali Apache web server.
     ```
     $ sudo service apache2 restart
     ```
-)
 
-10. Buka halaman IP web server yang kita gunakan di browser dan akses folder dimana kita melakukan instalasi **Ampache** .
+9. Buka halaman IP web server yang kita gunakan di browser dan akses folder dimana kita melakukan instalasi **Ampache** .
 	(Misal jika menggunakan IP localhost) : ``127.0.0.1:8888/ampache``
 
     - Pilih bahasa yang akan digunakan selama penginstallan
-    - ![1](https://raw.githubusercontent.com/wiki/ampache/ampache/images/ampache_installation_01.png)
+      ![1](https://raw.githubusercontent.com/wiki/ampache/ampache/images/ampache_installation_01.png)
 
     - Kemudian akan muncul halaman untuk melakukan pengecekan apakah seluruh *requirements* sudah terpenuhi
 
@@ -132,14 +131,14 @@ Pada tabs *file insight*, dapat dilihat error-error seperti di gambar di bawah. 
 ![8](https://i.pinimg.com/originals/89/96/9e/89969eee870f60fe4206f19125feda23.png)
 
 
-  11. Membuat *user account* untuk *administrator*
+  10. Membuat *user account* untuk *administrator*
 
    ![9](https://i.pinimg.com/originals/f0/f2/6a/f0f26a01c4efdb156f52fa6874e7cf52.png)
 
-12. Setelah proses instalasi selesai, akan tampil halaman informasi versi dari Ampache, dan informasi update. Apabila ampache yang terinstall adalah versi terbaru dari github, maka tidak perlu dilakukan update.
+11. Setelah proses instalasi selesai, akan tampil halaman informasi versi dari Ampache, dan informasi update. Apabila ampache yang terinstall adalah versi terbaru dari github, maka tidak perlu dilakukan update.
     ![10](https://i.pinimg.com/originals/d3/f5/19/d3f519f844e2e1b444f742c7e883154b.png)
 	Tombol update now hanya akan menampilkan bahwa ampache telah berada dalam versi yang terbaru.
-13. Login ke dalam **Ampache** dengan menggunakan akun administrator yang telah dibuat sebelumnya.
+12. Login ke dalam **Ampache** dengan menggunakan akun administrator yang telah dibuat sebelumnya.
 	![11](https://i.pinimg.com/originals/93/59/f9/9359f99e0d8b61054df058761485aa02.png)
 
 	**Ampache** telah berhasil terinstall
