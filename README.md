@@ -160,46 +160,6 @@ Pada tabs *file insight*, dapat dilihat error-error seperti di gambar di bawah. 
 	![11](https://i.pinimg.com/originals/d0/a1/09/d0a109b5572d4715fb93b4de9d299934.png)
 
 
-# Konfigurasi
-[`^ kembali ke atas ^`](#)
-
-Pengaturan konfigurasi di **Ampache** terdapat pada tombol preferences (berbentuk seperti ikon *setting* pada umumnya) untuk pengguna, dan tombol admin untuk pengaturan server secara keseluruhan.
-1. Konfigurasi Pengguna
-	- Menu yang dapat dikonfigurasi adalah interface (tampilan), Options (Pengaturan), Playlist, Streaming, serta Account.
-    ![adv](https://i.pinimg.com/originals/a6/94/49/a69449e24d9d3156eeb2c62b83bd45a7.png)
-    ![Konfigurasi](https://i.pinimg.com/originals/76/c4/08/76c408f29bb2484d1f73889e59a6a9d7.png)
-	- Pada menu **Interface**, kita dapat mengatur tampilan pengguna dari **Ampache** seperti, mengatur untuk menampilkan *album art* , dan lain sebagainya.
-	- Menu **Options** memiliki pengaturan tentang hal yang dapat user lakukan seperti share, streaming, video, dan lainnya.
-	- Menu **Playlist** memiliki pengaturan untuk mengatur playlist yang akan digunakan di **Ampache**
-	- Menu **Streaming** mengatur pengaturan soal *streaming*.
-	- Menu **Account** untuk mengatur akun pengguna, seperti ubah password, email, dan lainnya.
-
-2. Konfigurasi Server
-	Untuk memilih konfigurasi server, klik tombol seperti server yang ada di sebelah tombol exit pada bagian pojok kiri layar **ampache**
-	![Server-Config](https://i.pinimg.com/originals/46/ea/34/46ea3454a0c3dd1ff584678555ffbd2e.png)
-	- Lalu pada tab **Server Config** di bagian pojok kiri bawah layar, terdapat pengaturan server yang dapat di pilih oleh pengguna atau administrator. Seperti website name, pemilihan bahasa, dan lain sebagainya yang terdapat pada menu interface.
-
-	- Pengaturan sistem juga terdapat pada tab yang sama, yaitu pada bagian **System**. Pada menu ini dapat diatur  hal-hal yang berhubungan dengan server dari **Ampache** itu sendiri, seperti pengaturan *auto-update*, pengaturan metadata, lokasi penyimpanan catalog, dan lainnya.
-	 ![System-server](https://i.pinimg.com/originals/29/68/f5/2968f52612be8fd1f3054c7dfbebf5a9.png)
-
-3. Penambahan Modul
-- **Ampache** didukung oleh banyak modul untuk menambah kenyamanan pengguna dalam menggunakan **Ampache**.   Pengaturan modul dan plugin dapat dilihat jika ikon seperti kepala kabel listrik di klik.
-![Modules](https://i.pinimg.com/originals/13/9b/9d/139b9d66f479a1d1bb8156b3e5bdd9ca.png)
-
-
-# Maintenance
-[`^ kembali ke atas ^`](#)
-Ada saatnya dimana **Ampache** perlu dilakukan *upgrade* untuk menjaga aplikasi yang terpasang tetap up-to-date dengan pengembangannya. Saat akan melakukan upgrade, ada baiknya server dimasukkan ke dalam mode *maintenance*, untuk menghindari pengguna lain melakukan kesalahan ketika **Ampache** sedang di *upgade*
-Langkah-langkah membuat **Ampache** masuk kedalam mode *maintenance*
-1. Buatlah file `.maintenance` pada root folder tempat instalasi **Ampache**. Contoh isi dari file tersebut terdapat di dalam file `.maintenance.example` pada root folder instalasi.
-2. Jika ingin menambahkan pesan sendiri, harus ditambahkan *semicolon* `;` di akhir file.
-![
-](https://i.pinimg.com/originals/2b/f2/32/2bf232e14fbd46592549b1ba137bc4f9.png)
-
-
-
-
-
 # Cara Pemakaian
 [`^ kembali ke atas ^`](#)
 1. Sebelum menggunakan Ampache, pertama lakukanlah Login pada halaman awal dengan menggunakan akun yang sudah tersedia:
