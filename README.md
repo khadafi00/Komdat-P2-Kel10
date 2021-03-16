@@ -102,7 +102,7 @@
     ```
 
 9. Buka halaman IP web server yang kita gunakan di browser dan akses folder dimana kita melakukan instalasi **Ampache** .
-	(Misal jika menggunakan IP localhost) : ``127.0.0.1:8888/ampache``
+	(Misal jika menggunakan IP localhost) : ``http://localhost/ampache/public/install.php``
 
     - Pilih bahasa yang akan digunakan selama penginstallan
       ![1](https://raw.githubusercontent.com/wiki/ampache/ampache/images/ampache_installation_01.png)
