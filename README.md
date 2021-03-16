@@ -180,4 +180,3 @@ Kekurangan: <br>
 # Referensi
 
 1. [Github Official Installation Guide](https://github.com/ampache/ampache/wiki/Installation) - Ampache
-2. [Ampache Maintenance Mode](https://github.com/ampache/ampache/wiki/Upgrade) - GitHub
