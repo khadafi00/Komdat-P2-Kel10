@@ -165,18 +165,6 @@ Pada tabs *file insight*, dapat dilihat error-error seperti di gambar di bawah. 
 1. Sebelum menggunakan Ampache, pertama lakukanlah Login pada halaman awal dengan menggunakan akun yang sudah tersedia:
 ![11](https://i.pinimg.com/originals/93/59/f9/9359f99e0d8b61054df058761485aa02.png)
 Hubungi Admin jika anda belum terdaftar dan ingin mendaftar ke ampache.
-2. Pada halaman awal kita akan ditampilkan menu pilihan seperti gambar di bawah ini.
-![
-](https://i.pinimg.com/originals/fc/08/2a/fc082a402802d88a6d21e8042a36f937.png)
-3. Pada deretan tombol menu, di bawah menu Music terdapat pemilihan kategori file musik berdasarkan artist, genre, album, year dan lainnya. Sebagai contoh, klik pilihan *Song titles*. ![
-](https://i.pinimg.com/originals/19/ea/41/19ea41cc40843fb14a0e2a7bf0de5ff9.png)
-Akan ditampilkan lagu yang telah terdapat di dalam katalog di yang berada di server. Untuk memutar lagu hanya perlu klik tombol play yang terdapat di sebelah kiri dari judul lagu setelah kita *hover* mouse kita ke lagu tersebut.
-4. Untuk Video dan Juga Stream Radio, bisa dilakukan dengan klik pada pilihan yang tersedia, namun layanan radio harus didaftarkan terlebih dahulu oleh admin atau pihak  berwenang yang lain.
-5. Jika anda adalah seorang administrator (atau pihak lain yang diberikan akses untuk menambah katalog), anda dapat menambah katalog yang berisi direktori dimana anda menyimpan lagu di server anda pada  tab admin, lalu dibawah menu katalog, add a catalog seperti pada gambar di bawah ini.![enter image description here](https://i.pinimg.com/originals/fa/f2/08/faf208f2f8548e209bb18736977c0a58.png)
-Masukan nama katalog, jenis katalog apakah local atau remote, setelah anda memilih, misalkan local akan tampil form untuk mengisi *path* dari tempat anda menyimpan lagu atau file lainnya di dalam server anda.
-![enter image description here](https://i.pinimg.com/originals/7e/7a/c6/7e7ac6d4a6547e83df57fc58dcb87afa.png)
-Jika telah selesai memasukkan direktori di path, klik **Add catalog** untuk menyelesaikan proses penambahan katalog.
-6. Lagu atau file media yang anda simpan kemudian akan di scan oleh **Ampache** lalu akan tampil ke dalam daftar musik atau media yang ada di ampache. Kemudian file tersebut langsung dapat diputar oleh user lain.
 
 # Pembahasan
 [`^ kembali ke atas ^`](#)
