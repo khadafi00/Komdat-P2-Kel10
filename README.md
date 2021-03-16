@@ -126,7 +126,7 @@
 
       ![1](https://i.pinimg.com/originals/7c/a8/e8/7ca8e8ccb01f01a561241e8e09f16eed.png)
 
-    - Jika *reqkebutuhan sudah terpenuhi, maka seluruh status akan mengembalikan Nilai **OK**
+    - Jika *requirements* sudah terpenuhi, maka seluruh status akan mengembalikan Nilai **OK**
 
       ![2](https://i.pinimg.com/originals/ce/64/91/ce64917e2617e8623d6176943a4f65dc.png)
 
