@@ -114,52 +114,55 @@
     ```
     $ sudo service apache2 restart
     ```
-
+)
 
 10. Buka halaman IP web server yang kita gunakan di browser dan akses folder dimana kita melakukan instalasi **Ampache** .
 	(Misal jika menggunakan IP localhost) : ``127.0.0.1:8888/ampache``
 
-	- Kemudian akan muncul halaman untuk melakukan pengecekan apakah seluruh *requirements* sudah terpenuhi
+    - Pilih bahasa yang akan digunakan selama penginstallan
+    - ![1](https://raw.githubusercontent.com/wiki/ampache/ampache/images/ampache_installation_01.png)
 
-      ![1](https://i.pinimg.com/originals/7c/a8/e8/7ca8e8ccb01f01a561241e8e09f16eed.png)
+    - Kemudian akan muncul halaman untuk melakukan pengecekan apakah seluruh *requirements* sudah terpenuhi
+
+      ![2](https://i.pinimg.com/originals/7c/a8/e8/7ca8e8ccb01f01a561241e8e09f16eed.png)
 
     - Jika *requirements* sudah terpenuhi, maka seluruh status akan mengembalikan Nilai **OK**
 
-      ![2](https://i.pinimg.com/originals/ce/64/91/ce64917e2617e8623d6176943a4f65dc.png)
+      ![3](https://i.pinimg.com/originals/ce/64/91/ce64917e2617e8623d6176943a4f65dc.png)
 
     - Konfigurasi database yang akan digunakan oleh **Ampache**
 
-      ![3](https://i.pinimg.com/originals/65/94/91/659491e8b7cca85cb44eff7cb46910c4.png)
+      ![4](https://i.pinimg.com/originals/65/94/91/659491e8b7cca85cb44eff7cb46910c4.png)
 
     - Konfigurasi pembuatan *config file*
 
-      ![4](https://i.pinimg.com/originals/94/e1/56/94e156de32e99c67bc92657649d3c577.png)
+      ![5](https://i.pinimg.com/originals/94/e1/56/94e156de32e99c67bc92657649d3c577.png)
 
-![5](https://i.pinimg.com/originals/9e/58/67/9e58676b4fbf301012a569c167de99ea.png)
+![6](https://i.pinimg.com/originals/9e/58/67/9e58676b4fbf301012a569c167de99ea.png)
 
-![6](https://i.pinimg.com/originals/37/91/7d/37917dffa04b701c2a6c2d37c47e69bc.png)
+![7](https://i.pinimg.com/originals/37/91/7d/37917dffa04b701c2a6c2d37c47e69bc.png)
 
 Pada tabs *file insight*, dapat dilihat error-error seperti di gambar di bawah. Jika semua instalasi telah dilakukan dengan benar, ketika tombol *create config* diklik, maka file konfigurasi akan langsung tersimpan dan semua error tersebut akan teratasi.
-![7](https://i.pinimg.com/originals/89/96/9e/89969eee870f60fe4206f19125feda23.png)
+![8](https://i.pinimg.com/originals/89/96/9e/89969eee870f60fe4206f19125feda23.png)
 
 
   11. Membuat *user account* untuk *administrator*
 
-   ![8](https://i.pinimg.com/originals/f0/f2/6a/f0f26a01c4efdb156f52fa6874e7cf52.png)
+   ![9](https://i.pinimg.com/originals/f0/f2/6a/f0f26a01c4efdb156f52fa6874e7cf52.png)
 
 12. Setelah proses instalasi selesai, akan tampil halaman informasi versi dari Ampache, dan informasi update. Apabila ampache yang terinstall adalah versi terbaru dari github, maka tidak perlu dilakukan update.
-    ![9](https://i.pinimg.com/originals/d3/f5/19/d3f519f844e2e1b444f742c7e883154b.png)
+    ![10](https://i.pinimg.com/originals/d3/f5/19/d3f519f844e2e1b444f742c7e883154b.png)
 	Tombol update now hanya akan menampilkan bahwa ampache telah berada dalam versi yang terbaru.
 13. Login ke dalam **Ampache** dengan menggunakan akun administrator yang telah dibuat sebelumnya.
-	![10](https://i.pinimg.com/originals/93/59/f9/9359f99e0d8b61054df058761485aa02.png)
+	![11](https://i.pinimg.com/originals/93/59/f9/9359f99e0d8b61054df058761485aa02.png)
 
 	**Ampache** telah berhasil terinstall
-	![11](https://i.pinimg.com/originals/d0/a1/09/d0a109b5572d4715fb93b4de9d299934.png)
+	![12](https://i.pinimg.com/originals/d0/a1/09/d0a109b5572d4715fb93b4de9d299934.png)
 
 
 # Cara Pemakaian
 1. Sebelum menggunakan Ampache, pertama lakukanlah Login pada halaman awal dengan menggunakan akun yang sudah tersedia:
-![11](https://i.pinimg.com/originals/93/59/f9/9359f99e0d8b61054df058761485aa02.png)
+![13](https://i.pinimg.com/originals/93/59/f9/9359f99e0d8b61054df058761485aa02.png)
 Hubungi Admin jika anda belum terdaftar dan ingin mendaftar ke ampache.
 
 # Pembahasan
