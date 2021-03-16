@@ -4,13 +4,10 @@
 </h1>
 
 # Sekilas Tentang
-[`^ kembali ke atas ^`](#)
 
 **Ampache** adalah Aplikasi streaming audio atau video berbasis web dan pengelolaan file yang memungkinkan penggunanya mengakses musik dan video dari mana saja. **Ampache** dapat digunakan oleh hampir semua perangkat yang terhubung jaringan internet.
 
 # Instalasi
-[`^ kembali ke atas ^`](#)
-
 #### Kebutuhan Sistem :
 - Unix, Linux atau Windows.
 - Web-Server :
@@ -161,13 +158,11 @@ Pada tabs *file insight*, dapat dilihat error-error seperti di gambar di bawah. 
 
 
 # Cara Pemakaian
-[`^ kembali ke atas ^`](#)
 1. Sebelum menggunakan Ampache, pertama lakukanlah Login pada halaman awal dengan menggunakan akun yang sudah tersedia:
 ![11](https://i.pinimg.com/originals/93/59/f9/9359f99e0d8b61054df058761485aa02.png)
 Hubungi Admin jika anda belum terdaftar dan ingin mendaftar ke ampache.
 
 # Pembahasan
-[`^ kembali ke atas ^`](#)
 **Ampache** dalam kemampuan untuk mengakses seluruh perpustakaan musik dari jarak jauh dan digunakan menggunakan PHP,HTML5 dan MySQL.  <br>
 
 Kelebihan: <br/>
@@ -183,7 +178,6 @@ Kekurangan: <br>
 
 
 # Referensi
-[`^ kembali ke atas ^`](#)
 
 1. [Github Official Installation Guide](https://github.com/ampache/ampache/wiki/Installation) - Ampache
 2. [Ampache Maintenance Mode](https://github.com/ampache/ampache/wiki/Upgrade) - GitHub
