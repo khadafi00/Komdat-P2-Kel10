@@ -153,23 +153,18 @@ Pada tabs *file insight*, dapat dilihat error-error seperti di gambar di bawah. 
 	![12](https://i.pinimg.com/originals/d0/a1/09/d0a109b5572d4715fb93b4de9d299934.png)
 
 # Cara Pemakaian
-[`^ kembali ke atas ^`](#)
+
 1. Sebelum menggunakan Ampache, pertama lakukanlah Login pada halaman awal dengan menggunakan akun yang sudah tersedia:
-![11](<img width="595" alt="login admin" src="https://user-images.githubusercontent.com/60166802/111445921-73798d00-873e-11eb-965b-7b9bdc7b3f3f.PNG">
-)
+![11](https://user-images.githubusercontent.com/60166802/111445921-73798d00-873e-11eb-965b-7b9bdc7b3f3f.PNG)
 Hubungi Admin jika anda belum terdaftar dan ingin mendaftar ke ampache.
 2. Pada halaman awal kita akan ditampilkan menu pilihan seperti gambar di bawah ini.
-![](<img width="592" alt="1" src="https://user-images.githubusercontent.com/60166802/111445985-7f654f00-873e-11eb-85f1-d4a9d8d7e621.PNG">
-)
-3. Pada deretan tombol menu, di bawah menu Music terdapat pemilihan kategori file musik berdasarkan artist, genre, album, year dan lainnya. Sebagai contoh, klik pilihan *Song titles*. ![
-](<img width="591" alt="2" src="https://user-images.githubusercontent.com/60166802/111446001-84c29980-873e-11eb-8ee0-7b055568e705.PNG">
-)
+![](https://user-images.githubusercontent.com/60166802/111445985-7f654f00-873e-11eb-85f1-d4a9d8d7e621.PNG)
+3. Pada deretan tombol menu, di bawah menu Music terdapat pemilihan kategori file musik berdasarkan artist, genre, album, year dan lainnya. Sebagai contoh, klik pilihan *Song titles*. ![](https://user-images.githubusercontent.com/60166802/111446001-84c29980-873e-11eb-8ee0-7b055568e705.PNG)
 Akan ditampilkan lagu yang telah terdapat di dalam katalog di yang berada di server. Untuk memutar lagu hanya perlu klik tombol play yang terdapat di sebelah kiri dari judul lagu setelah kita *hover* mouse kita ke lagu tersebut.
 4. Untuk Video dan Juga Stream Radio, bisa dilakukan dengan klik pada pilihan yang tersedia, namun layanan radio harus didaftarkan terlebih dahulu oleh admin atau pihak  berwenang yang lain.
 5. Jika anda adalah seorang administrator (atau pihak lain yang diberikan akses untuk menambah katalog), anda dapat menambah katalog yang berisi direktori dimana anda menyimpan lagu di server anda pada  tab admin, lalu dibawah menu katalog, add a catalog seperti pada gambar di bawah ini.![enter image description here](https://user-images.githubusercontent.com/60166802/111446050-91df8880-873e-11eb-9e45-3d882a4a733f.PNG)
 Masukan nama katalog, jenis katalog apakah local atau remote, setelah anda memilih, misalkan local akan tampil form untuk mengisi *path* dari tempat anda menyimpan lagu atau file lainnya di dalam server anda.
-![enter image description here](<img width="595" alt="4" src="https://user-images.githubusercontent.com/60166802/111446084-9ad05a00-873e-11eb-8f6a-c935932e8791.PNG">
-)
+![enter image description here](https://user-images.githubusercontent.com/60166802/111446084-9ad05a00-873e-11eb-8f6a-c935932e8791.PNG)
 Jika telah selesai memasukkan direktori di path, klik **Add catalog** untuk menyelesaikan proses penambahan katalog.
 6. Lagu atau file media yang anda simpan kemudian akan di scan oleh **Ampache** lalu akan tampil ke dalam daftar musik atau media yang ada di ampache. Kemudian file tersebut langsung dapat diputar oleh user lain.
 
