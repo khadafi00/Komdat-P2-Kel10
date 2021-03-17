@@ -158,7 +158,7 @@ Pada tabs *file insight*, dapat dilihat error-error seperti di gambar di bawah. 
 ![11](https://user-images.githubusercontent.com/60166802/111445921-73798d00-873e-11eb-965b-7b9bdc7b3f3f.PNG)
 Hubungi Admin jika anda belum terdaftar dan ingin mendaftar ke ampache.
 2. Pada halaman awal kita akan ditampilkan menu pilihan seperti gambar di bawah ini.
-![](https://user-images.githubusercontent.com/60166802/111445985-7f654f00-873e-11eb-85f1-d4a9d8d7e621.PNG)
+![](https://user-images.githubusercontent.com/60166802/111448642-35319d00-8741-11eb-9d42-4f3c80484cb0.PNG)
 3. Pada deretan tombol menu, di bawah menu Music terdapat pemilihan kategori file musik berdasarkan artist, genre, album, year dan lainnya. Sebagai contoh, klik pilihan *Song titles*. ![](https://user-images.githubusercontent.com/60166802/111446001-84c29980-873e-11eb-8ee0-7b055568e705.PNG)
 Akan ditampilkan lagu yang telah terdapat di dalam katalog di yang berada di server. Untuk memutar lagu hanya perlu klik tombol play yang terdapat di sebelah kiri dari judul lagu setelah kita *hover* mouse kita ke lagu tersebut.
 4. Untuk Video dan Juga Stream Radio, bisa dilakukan dengan klik pada pilihan yang tersedia, namun layanan radio harus didaftarkan terlebih dahulu oleh admin atau pihak  berwenang yang lain.
