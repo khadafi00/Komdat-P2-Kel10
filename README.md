@@ -135,7 +135,8 @@
 ![7](https://i.pinimg.com/originals/37/91/7d/37917dffa04b701c2a6c2d37c47e69bc.png)
 
 Pada tabs *file insight*, dapat dilihat error-error seperti di gambar di bawah. Jika semua instalasi telah dilakukan dengan benar, ketika tombol *create config* diklik, maka file konfigurasi akan langsung tersimpan dan semua error tersebut akan teratasi.
-![8](https://i.pinimg.com/originals/89/96/9e/89969eee870f60fe4206f19125feda23.png)
+![8](https://user-images.githubusercontent.com/60166802/111440967-6f973c00-8739-11eb-82bd-9787da5f00bb.jpeg)
+)
 
 
   10. Membuat *user account* untuk *administrator*
