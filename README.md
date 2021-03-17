@@ -144,12 +144,6 @@ Pada tabs *file insight*, dapat dilihat error-error seperti di gambar di bawah. 
 	**Ampache** telah berhasil terinstall
 	![12](https://i.pinimg.com/originals/d0/a1/09/d0a109b5572d4715fb93b4de9d299934.png)
 
-
-# Cara Pemakaian
-1. Sebelum menggunakan Ampache, pertama lakukanlah Login pada halaman awal dengan menggunakan akun yang sudah tersedia:
-![13](https://i.pinimg.com/originals/93/59/f9/9359f99e0d8b61054df058761485aa02.png)
-Hubungi Admin jika anda belum terdaftar dan ingin mendaftar ke ampache.
-
 # Pembahasan
 **Ampache** dalam kemampuan untuk mengakses seluruh perpustakaan musik dari jarak jauh dan digunakan menggunakan PHP,HTML5 dan MySQL.  <br>
 
