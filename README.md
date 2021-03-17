@@ -11,7 +11,7 @@
 #### Kebutuhan Sistem :
 - Unix, Linux atau Windows.
 - Apache
-- PHP
+- PHP7.40
 - MySQL 5.x
 - Composer
 
