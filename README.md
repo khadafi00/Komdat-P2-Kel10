@@ -10,19 +10,10 @@
 # Instalasi
 #### Kebutuhan Sistem :
 - Unix, Linux atau Windows.
-- Web-Server :
-	- Apache (Versi paling sering digunakan pada lebih banyak pada fase *testing*)
-	- lighttpd
-	- nginx
-	- IIS
-- PHP 5.4 atau versi lebih baru.
-- Modul PHP :
-	- PDO
-	- PDO_MYSQL
-	- hash
-	- session
-	- JSON
+- Apache
+- PHP
 - MySQL 5.x
+- Composer
 
 #### Proses Instalasi :
 
