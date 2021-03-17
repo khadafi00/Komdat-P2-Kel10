@@ -34,7 +34,14 @@
     $ sudo apt-get install php
     $ sudo apt-get install libapache2-mod-php
     $ sudo apt-get install php-mysql
-    $ sudo apt-get install php-gd php-mcrypt php-mbstring php-xml php-ssh2 php-curl php-zip php-intl
+    $ sudo apt-get install php-gd
+    $ sudo apt-get install php-mcrypt
+    $ sudo apt-get install php-mbstring
+    $ sudo apt-get install php-xml
+    $ sudo apt-get install php-ssh2
+    $ sudo apt-get install php-curl
+    $ sudo apt-get install php-zip
+    $ sudo apt-get install php-intl
     $ sudo apt install git
     $ sudo apt install composer
     $ sudo service apache2 restart
