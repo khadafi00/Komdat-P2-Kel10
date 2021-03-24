@@ -161,8 +161,7 @@ Jika telah selesai memasukkan direktori di path, klik **Add catalog** untuk meny
 **Ampache** dalam kemampuan untuk mengakses seluruh perpustakaan musik dari jarak jauh dan digunakan menggunakan PHP,HTML5 dan MySQL.  <br>
 
 Kelebihan: <br/>
-- Terhubung ke layanan seperti LyricsWiki untuk mendapatkan lirik lagu.
-- Mendukung untuk dimainkan secara lokal untuk VLC dan Kodi
+- Mendukung untuk dimainkan secara lokal untuk VLC
 - Multidevice di satu akun, dapat digunakan di banyak device berbeda dengan akun yang sama secara bersamaan.
 
 
